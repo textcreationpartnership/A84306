@@ -1,0 +1,209 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An extract of certain papers of intelligence, from Cambridge, concerning His Majestie and the armie.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84306</idno>
+            <idno type="STC">Wing E3908</idno>
+            <idno type="STC">Thomason E393_15</idno>
+            <idno type="STC">ESTC R201598</idno>
+            <idno type="EEBO-CITATION">99862097</idno>
+            <idno type="PROQUEST">99862097</idno>
+            <idno type="VID">160304</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84306)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160304)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 62:E393[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An extract of certain papers of intelligence, from Cambridge, concerning His Majestie and the armie.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "June 21".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160304:1" rendition="simple:additions"/>
+            <p>AN EXTRACT OF CERTAIN PAPERS OF INTELLIGENCE, FROM <hi>CAMBRJDGE,</hi> Concerning His MAJESTIE and the ARMIE.</p>
+            <p>Printed in the Yeare, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:160304:2"/>
+            <pb n="1" facs="tcp:160304:2"/>
+            <head>An Extract of certain Papers of Jntelli<g ref="char:EOLhyphen"/>gence, from Cambridge, concerning His Majeſty and the Army.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>I Beleeve you are big in expectation of receiving News from theſe parts. Thus therefore. The King on Saturday was brought by a very ſmall party, under the conduct of no greater an one then a Coronet, within four miles of this place; and all the noiſe was, that he would be here, the Harbingers in the meane time buying up the whole Market. But wee (who vſually are not taken with the firſt reports of things) thought not fit hereupon to aſſemble together either in the <hi>Head</hi> or <hi>Body;</hi> where<g ref="char:EOLhyphen"/>as the <hi>Major</hi> and <hi>Aldermen</hi> (ſomewhat more credulous) fitted their Saddles and Foot-<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>loathes unto their Horſes, and had pro<g ref="char:EOLhyphen"/>vided a Preſent for His Majeſty; which quickly after came as ac<g ref="char:EOLhyphen"/>ceptable to his eares, as if to his hands. The Townſ-folkes had in all thoſe ſtreets, through which it was conceived he would paſſe, deckt their ſtalles and windowes with green boughs and whole Roſe-buſhes, and the ground all along with Ruſhes and Herbs. But the King turn'd aſide u<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>to my <hi>Lady Cuts</hi> her houſe; and there yet abides, whither people flow apace to behold him. He is exceeding chearfull, ſhewes himſelfe to all, and commands that no Scholler be debar'd from kiſſing of his hand: and there the Sophs are (as if no farther then <hi>Barnwell</hi>) in their Gowns and Caps: it was mirth to ſee how wett yeſterday they were admit<g ref="char:EOLhyphen"/>ted
+<pb n="2" facs="tcp:160304:3"/>into the preſence. <hi>Generall Brown</hi> ſignifying, and furthering the Kings pleaſure unto them. Then the King had a large table of Diet: but this day (I beleeve) about to have a farre greater. For the <hi>Generall, Lieutenant-Generall Cromwell,</hi> and others of the Commanders and Councel of warre, are gone this noon to dine with him. It is conceived, that by to morrow ſomewhat may be diſcern'd.</p>
+            <closer>
+               <salute>Sir,</salute>
+               <signed>Your unfained friend.</signed>
+               <dateline>CAMBRIDGE. <date>
+                     <hi>June</hi> 7. 1647.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <head>POSTSCRIPT.</head>
+               <p>THe Generall quarters at Maſter <hi>Buck</hi> Seniors houſe: but the report is, that it will be this night the Kings quarters.</p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <pb n="3" facs="tcp:160304:3"/>
+            <opener>
+               <salute>Sir.</salute>
+            </opener>
+            <p>THe court is ſtill at the Lady <hi>Cutts's</hi> houſe. The Officers of the army returned laſt night, all of them highly extolling the King for his great Improvement. Hee argued his own, and his ſubjects Caſe with each of them (one by one) to their no ſmall Aſtoniſhment. He deſired a ſpeedy Remoove from that place: but back to Holmby, and thoſe parts, he will by no meanes. He told the Generall, that thoſe, which brought him hither, promiſed, That they would carry him to New-market; and he hoped, that they were men of Honour, who would make good their words. Recreation he much deſired: and told them withall; That, if they would not take order for his Removall, he would remove himſelfe: For confident he was, that there were thoſe about him, which would further him in it. This after<g ref="char:EOLhyphen"/>noon therefore he paſſes through Cambridge to New-market-faire; for this is the day. To morrow at Botſom-beacon is to be the Generall Rendevouz, as is yet intended, though ſome do fear deep inconveniencies may enſue thereon; the Counſels being yet various, and the ſouldiers talking high, So that it is thought the appearance ſhall be but of ſome part of the army. The Vice-Chancellour had the Generall laſt night to a great ſupper: and this morning he made a Spirituall breakfaſt at St. <hi>Maries;</hi> but neither the Generall, nor any of them, were thereat: The King ſent on Saturday (So that you may diſcern, that then he thought he might have been for New-market) for Doctor <hi>Brounrigg,</hi> Doctor <hi>Collins</hi> and Doctor <hi>Comber</hi> to be in the way: becauſe he intended to ſee them: and ſo they then were: and no doubt will be to day, if ſo be the firſt be yet in town, or can have timely notice of this his March. It were infinite to ſet downe the face<g ref="char:EOLhyphen"/>tiouſneſſe that flowes from his lips upon all occaſions to all: That one day may be in his Chronicle. Major-Generall <hi>Browne</hi> is much his Attendant, and gaines credit of all for Gallantry and great civility. It is conceived, that after the Rendevouz, they may fall back into theſe their quarters againe, or elſe incline ſomewhat more neere Royſton; and Royſton become the Head<g ref="char:EOLhyphen"/>quarters,
+<pb n="4" facs="tcp:160304:4"/>Meethinks I foreſee eminent Ruine, if not a ſpeedy peace. God of his mercy avert the former, and guide, whom it concernes, into the beſt and ſafeſt meanes of the latter. This from him, who (doubtleſſe) may ſafely write thus, even from</p>
+            <closer>
+               <dateline>
+                  <hi>Camb.</hi> 
+                  <date>
+                     <hi>June</hi> 8 1647.</date>
+               </dateline>
+               <salute>Sir,</salute> 
+               <signed>Your Friend.</signed>
+            </closer>
+            <postscript>
+               <head>POSTSCRIPT.</head>
+               <p>THe King is now (being two of the clock) gone by: He left Cambridge, and went as low as Grancheſter: to New-mar<g ref="char:EOLhyphen"/>ket, ſtill they ſay: but perchance it is to Royſton. The Rende<g ref="char:EOLhyphen"/>vouz holds to morrow, but to be on Og-Magog Hils.</p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>I Told you yeſterday that the Rendevouz, intended for this day, was like to be but of part of the Army: and it will proove true: and it is not to be at Botſum-beacon, but at Bennet Church, and the rather by way of an Humiliation-day, then a numbring their Hoaſt: There is to be three Sermons preached by Mr. <hi>Pe<g ref="char:EOLhyphen"/>ters,</hi> Mr. <hi>Saltmarſh,</hi> and Mr. <hi>Vice-Chancellour.</hi> God grant, that they may promote his Glory and our Peace. The more Ge<g ref="char:EOLhyphen"/>nerall Rendevouz is put off untill to morrow: and to be (as is now reported) about Fulmore. The King is at New-market; and it is conceived, that they will not bring him into the Head of the Army at the Rendevouz, but ſtill quarter him at the back of the Army, rather then he ſhould be accounted pertaining unto it. The Great Ones ſtill ſpeak high in his worth, whoſe preſence and aſpect cauſed trembling in ſome of the greateſt, and their ſtouteſt; as if it had been ſome Angelicall ſalutation. What is good, or may with ſafety be, I communicate unto you: But the wickedneſſe of ſome is ſo great, as not to be made ſo open, as in paper: and I feare it will have too great an influence (in time)
+<pb n="5" facs="tcp:160304:4"/>upon the hearts of many. Let me know when you returne, that I may not loſe my labour in ſending a letter more, then you in friendſhip may expect from</p>
+            <closer>
+               <salute>Sir</salute> 
+               <signed>your Servant.</signed>
+               <dateline>
+                  <date>
+                     <hi>Iune</hi> 9 1647.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>Sir</salute>
+            </opener>
+            <p>THe humilliation day was kept at <hi>St. Maries,</hi> and <hi>Mr. Sea<g ref="char:EOLhyphen"/>man</hi> came in for the fourth man: you have (I know) a pre<g ref="char:EOLhyphen"/>ſumption, that I was not there; but I heare, that <hi>Mr. Peters</hi> is ſtill <hi>Mr. Peters.</hi> That day and yeſterday a fellow preach't againſt him (I think, or elſe againſt his way) on the market-hill. I, with the reſt of my company, kiſt the Kings hand, and ſaw him at ſup<g ref="char:EOLhyphen"/>per. So long we ſtay'd; becauſe he was all that afternoone alone in his Cloſet; at his prayers or pen; as who can conceive other<g ref="char:EOLhyphen"/>wiſe? For his treaſure might in farre leſſe time (ſure) have been runne over. He came out very cheerfully, lookes very well, and communicated himſelf very freely in Diſcourſe, with ſome two or three that attended him. That day <hi>Collonel Thomſon</hi> (former<g ref="char:EOLhyphen"/>ly of the Kings Army) endeavoured, as others, to have a ſight of the King, but was not onely refuſed at the Guards, but alo di<g ref="char:EOLhyphen"/>ſpatcht out of the Town. Yeſterday the three Doctors were with the King, whom he lifted from of their knees; and he had opportunity of ſome lit le diſcourſe with them.</p>
+            <p>The Army removed yeſterday from us, took with them tenne loads of Ammunition from the <hi>Caſtle:</hi> and the Ordnance follow them this day. They ſeem truely to look more towards ſuch Or<g ref="char:EOLhyphen"/>dnance ſtill, then the <hi>Ordinance of Parliament.</hi> I know not, how they come to take ſo great a diſtaſt againſt the Houſes. After all, that the Commiſſioners brought, was read at the Head of each Regiment, and <hi>Major Skippon</hi> had in like manner gloſſed thereon, and in a plauſable way aſſayed to be a Mediator; they firſt were ask't by <hi>Major I. Skippon,</hi> whether they had heard, and underſtood, what had been delivered, who anſwered; Yes, yes: being asked,
+<pb n="6" facs="tcp:160304:5"/>next, whether they were ſatiſfied therewith? replyed: No, no: What would they then? They cryed out; Iuſtice, juſtice, juſtice. And ſo went it through the whole Army: moſt ſaying, they long e<g ref="char:EOLhyphen"/>nough have had faire words; others wondring, how the Com<g ref="char:EOLhyphen"/>miſſioners durſt come unto them, and ſome crying, lets vote them out of the field. By the rules of ſome knowing ones I diſcerne that they intend to purge the Houſes and Synode of ſomewhat which they account deſtructive to the whole. Could they truely deſcry it, and ſet about it impartially, it might be the Crown to (what they yet have not) a victory. Their head-quarters were laſt night at Royſton, and inclining (as I am inform'd) towards Ware. <hi>W.</hi> tels one, they are expected this night at Theobals. Well then may this be <hi>Barnaby-bright,</hi> by ſuch a March, and by my letter. But I march on; though chiefely, if not freely, to tell you, that, if you feare ſuch approaches may (as doubtleſſe it will) breed diſtraction in the City, then my affection bids you, Come out of her, come out of her &amp;c. To the beſt cauſe, I wiſh the beſt ſucceſſe; and to my friends, ſafety, and (if it pleaſe God) Peace unto us all.</p>
+            <p>
+               <hi>Let me not be forgot to any that likes well of my being</hi>
+            </p>
+            <closer>
+               <salute>Sir.</salute>
+               <signed>YOVR SERVANT.</signed>
+               <dateline>
+                  <hi>Cambridge.</hi> 
+                  <date>
+                     <hi>June</hi> 11. 1647.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <head>POSTSCRIPT.</head>
+               <p>I Cannot heare how the Generall and Commiſſioners parted: but by the Soldiers, they were hooted out of the field. Nei<g ref="char:EOLhyphen"/>ther was there ſo good Correſpondency between them and the Generall, as to ſup or break faſt together, whil'ſt they were here in <hi>Town.</hi>
+               </p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
